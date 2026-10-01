@@ -42,10 +42,6 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 ### Palomar College
 * Associates in Science in Science and Mathematics
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ## Certifications
 * Project Management Professional (PMP)
 * Lean Six Sigma Black Belt
