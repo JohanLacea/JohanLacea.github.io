@@ -2,19 +2,14 @@
 layout: default
 ---
 
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Link to another page](./another-page.html). -->
 
-[Link to another page](./another-page.html).
+# Professional Portfolio
 
-There should be whitespace between paragraphs.
+## Professional Summary
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Johan Lacea
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+*Supply chain and analytics graduate student with extensive leadership experience in logistics, operations, procurement, and project management.*
 
 > This is a blockquote following a header.
 >
