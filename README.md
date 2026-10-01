@@ -11,5 +11,5 @@ This site highlights my background ins supply chain management, logistics, procu
 [View my professional portfolio](https://johanlacea.github.io/).
 
 ## Connect
-[LinkedIn](linkedin.com/in/johanlacea)
+[LinkedIn](https://www.linkedin.com/in/johanlacea/)
 
