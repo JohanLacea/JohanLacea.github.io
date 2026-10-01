@@ -53,5 +53,5 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 
 ## Connect with Me
 
-View my professional background on [LinkedIn](www.linkedin.com/in/johanlacea).
+View my professional background on [LinkedIn](https://www.linkedin.com/in/johanlacea/).
 
