@@ -39,14 +39,14 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 
 ### California State University San Marcos
 
-#### Master of Science in Supply Chain Analytics
-*In Progress*
+* Master of Science in Supply Chain Analytics
+ * *In Progess*
 
-#### Bachelor of Science in Global Supply Chain Management
+* Bachelor of Science in Global Supply Chain Management
 
 ### Palomar College
 
-#### Associates in Science in Science and Mathematics
+* Associates in Science in Science and Mathematics
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
