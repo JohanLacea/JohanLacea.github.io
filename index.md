@@ -11,26 +11,20 @@ layout: default
 
 *Supply chain and analytics graduate student with extensive leadership experience in logistics, operations, procurement, and project management.*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Amateurs talk strategy; professionals talk logistics.
 
-### Header 3
+## Professional Experience
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Supply Chain Procurement Intern — Metrea Aviation
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* Executed **73 purchase orders totaling approximately $398,000** in support of aircraft maintenance and operational requirements.
+
+* Supported RFQs, supplier communication, price negotiation, expediting, and delivery tracking.
+
+* Assisted with lead-time management, alternate part sourcing, and supplier documentation.
+
+* Gained experience working within aerospace and defense supply chain requirements and compliance processes.
+
 
 #### Header 4
 
