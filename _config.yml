@@ -1,7 +1,8 @@
 title: Supply Chain | Logistics | Anallytics
-logo: "Johan Lacea"
-avatar: /assets/img/logo.jpg
-description: "Supply Chain Analytics Graduate Student"
+author:
+name: "Johan Lacea"
+avatar: "/assets/img/logo.jpg"
+bio: "Supply Chain Analytics Graduate Student"
 show_downloads: true
 google_analytics:
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
