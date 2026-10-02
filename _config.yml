@@ -3,7 +3,6 @@ logo: /assets/img/logo.jpg
 description: Supply Chain Analytics Graduate Student
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 plugins:
   - jekyll-remote-theme
