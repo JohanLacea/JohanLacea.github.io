@@ -39,10 +39,10 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 * Master of Science in Supply Chain Analytics
   * *In Progress*
 
-* Bachelor of Science in Global Supply Chain Management
+* BS in Global Supply Chain Management
 
 ### Palomar College
-* Associates in Science in Science and Mathematics
+* AS in Science and Mathematics
 
 ## Certifications
 * Project Management Professional (PMP)
