@@ -35,7 +35,7 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 
 ### California State University San Marcos
 * Master of Science in Supply Chain Analytics
-  * *In Progess*
+  * *In Progress*
 
 * Bachelor of Science in Global Supply Chain Management
 
