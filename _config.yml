@@ -4,6 +4,7 @@ description: Supply Chain Analytics Graduate Student
 show_downloads: true
 google_analytics:
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
