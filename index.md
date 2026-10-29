@@ -33,6 +33,9 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 * Used GCSS-MC, an Oracle-based enterprise resource planning system, to support supply, maintenance, and inventory activities.
 * Managed logistics activities supporting mission readiness and global operations.
 
+## Projects
+[Building My E-Portfolio](/building-my-eportfolio/)
+
 ## Education
 
 ### California State University San Marcos
