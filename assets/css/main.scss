@@ -7,3 +7,16 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@media (min-width: 64em {
+  .author_avatar{
+    width: 200px;
+    max-width: 100%;
+  }
+   .author__avatar img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+  }
+}
+  
