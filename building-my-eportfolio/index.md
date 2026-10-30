@@ -67,10 +67,10 @@ In `_config.yml`, activate the remote theme and choose the color scheme:
       ![Screenshot of index](/assets/img/Index.png)
 7. Commit and push the changes to GitHub, then check the published portfolio's appearance, content, and links.
 
-Here is a screenshot of how my e-profile looks:
+Here is a screenshot of my e-portfolio:
 ![Profile screenshot](/assets/img/Profile.png)
 
-## 2. Creating the Guide subpage
+## 2. Creating the Guide Subpage
 1. Create a folder in the repository, I named mine `building-my-eportfolio`, and add an `index.md` file inside it.
 2. Add these settings at the top to define the title, address, layout, author sidebar, and table of contents:
 
@@ -86,8 +86,8 @@ Here is a screenshot of how my e-profile looks:
    ```
 3. Write the guide below the settings, including instructions and screenshots. Commit and push the changes, then check the published page.
 
-## 3. Linking the Guide from my homepage
-1. Open the homepage `index.md` in th emian repository directory.
+## 3. Linking the Guide from My Homepage
+1. Open the homepage `index.md` in the main repository directory.
 2. After adding a **Projects** section, add this to the existing homepage:
 
 ```markdown
