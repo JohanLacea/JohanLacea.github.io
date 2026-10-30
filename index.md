@@ -1,7 +1,7 @@
 ---
 layout: single
 title: false
-author_profile: 
+author_profile: true
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
@@ -37,6 +37,10 @@ I am currently pursuing a Master of Science in Supply Chain Analytics at Califor
 * Coordinated personnel, equipment, maintenance, transportation, and deployment requirements.
 * Used GCSS-MC, an Oracle-based enterprise resource planning system, to support supply, maintenance, and inventory activities.
 * Managed logistics activities supporting mission readiness and global operations.
+
+## Projects
+
+* [E-Portfolio Guide](/building-my-eportfolio/)
 
 ## Education
 

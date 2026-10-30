@@ -23,6 +23,7 @@ I initially built my e-portfolio using the Minimal theme:
 
 1. Open [Minimal theme](https://github.com/pages-themes/minimal)
 2. Click **Code**, then **Download ZIP** to download the theme files.
+![Minimal download screenshot](/assets/img/Minimal.png)
 3. Extract the downloaded ZIP file.
 4. Copy the extracted theme files and folders to existing local repository, in my case [JohanLacea.github.io](https://github.com/JohanLacea/JohanLacea.github.io).
 5. Click **Commit Changes** and push them to GitHub.
@@ -44,6 +45,7 @@ In `_config.yml`, activate the remote theme and choose the color scheme:
    ```
 
    The remote theme setting loads the specified version from GitHub. The alternative `theme` line stays commented out, and `mint` selects the green color scheme. Keep the required `jekyll-include-cache` entry in the existing `plugins` list.
+   ![Quick start screenshot](/assets/img/Quick_Start.png)
 5. Personalize the site title, masthead heading, and author information in `_config.yml`. I added my name, profile image, biography, and location.
 6. Update the settings at the top of `index.md`:
    
@@ -52,9 +54,43 @@ In `_config.yml`, activate the remote theme and choose the color scheme:
       layout: single
       title: false
       author_profile: true
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "cog"
+      header:
+        image: /assets/img/header.jpg
       ---
       ```
-      The settings at the top select the single layout, hide the automatic page title, and display the author sidebar. Below those settings, use Markdown headings, paragraphs, and bullet points to organize the portfolio content. I included my professional summary, professional experience, education, certifications, and a link to my LinkedIn profile.   
+      These settings select the single layout, hide the automatic page title, display the author sidebar, enable a table of contents, and add my homepage banner. Below these settings, I used Markdown headings, paragraphs, and bullet points to organize my professional summary, professional experience, education, certifications, and LinkedIn link.
+      
+      It should look similar to this:
+      ![Screenshot of index](/assets/img/Index.png)
 7. Commit and push the changes to GitHub, then check the published portfolio's appearance, content, and links.
 
+Here is a screenshot of how my e-profile looks:
+![Profile screenshot](/assets/img/Profile.png)
 
+## 2. Creating the Guide subpage
+1. Create a folder in the repository, I named mine `building-my-eportfolio`, and add an `index.md` file inside it.
+2. Add these settings at the top to define the title, address, layout, author sidebar, and table of contents:
+
+   ```yaml
+   ---
+   layout: single
+   title: "Building my E-Portfolio"
+   permalink: /building-my-eportfolio/
+   author_profile: true
+   toc: true
+   toc_label: "Guide Contents"
+   ---
+   ```
+3. Write the guide below the settings, including instructions and screenshots. Commit and push the changes, then check the published page.
+
+## 3. Linking the Guide from my homepage
+1. Open the homepage `index.md` in th emian repository directory.
+2. After adding a **Projects** section, add this to the existing homepage:
+
+```markdown
+* [E-Portfolio Guide](/building-my-eportfolio/)
+```
+3. Commit and push the changes, then test the link on the published homepage. 
