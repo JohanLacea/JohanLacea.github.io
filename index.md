@@ -1,7 +1,7 @@
 ---
 layout: single
 title: false
-author_profile: 
+author_profile: true
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
