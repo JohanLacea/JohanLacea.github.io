@@ -4,6 +4,7 @@ title: "Building my E-Portfolio"
 permalink: /building-my-eportfolio/
 author_profile: true
 toc: true
+toc_icon: "list"
 toc_label: "Guide Contents"
 ---
 ## 1. Documenting How I Built My E-Portfolio
