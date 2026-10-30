@@ -12,7 +12,7 @@ I also created a guide on how I created this e-portfolio.
 
 [View my professional portfolio](https://johanlacea.github.io/).
 
-[Portfolio Guide](https://johanlacea.github.io/building-my-eportfolio/)
+[E-Portfolio Guide](https://johanlacea.github.io/building-my-eportfolio/)
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/johanlacea/)
