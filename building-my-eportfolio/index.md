@@ -91,9 +91,9 @@ Here is a screenshot of my e-portfolio:
 1. Open the homepage `index.md` in the main repository directory.
 2. After adding a **Projects** section, add this to the existing homepage:
 
-```markdown
-* [E-Portfolio Guide](/building-my-eportfolio/)
-```
+   ```markdown
+   * [E-Portfolio Guide](/building-my-eportfolio/)
+   ```
 3. Commit and push the changes, then test the link on the published homepage.
 
 [Back to my portfolio](https://johanlacea.github.io/)
