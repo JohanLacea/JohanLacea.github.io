@@ -1,7 +1,12 @@
 ---
 layout: single
 title: false
-author_profile: true
+author_profile: 
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+header:
+  image: /assets/img/header.jpg
 ---
 # Professional Portfolio
 

@@ -29,14 +29,32 @@ I initially built my e-portfolio using the Minimal theme:
 6. Visit the portfolio to check that the theme has published correctly.
 
 #### Switching to Minimal Mistakes Theme
-After building the initial portfolio with Minimal, I switched to Minimal Mistakes:
+After building the initial portfolio with Minimal, I switched to Minimal Mistakes. I used the theme documentation to guide the transfer into my existing repository and then personalized the settings.
 
 1. Open the [Minimal Mistakes repository](https://github.com/mmistakes/minimal-mistakes)
-2. Click **Code**, then **Download ZIP** to download the theme files.
-3. Extract the downloaded ZIP file.
-4. Follow the Minimal Mistakes documentation to identify the files and folders needed to update the existing portfolio.
-5. Copy the required files and folders into the existing local repository. In my case [JohanLacea.github.io](github.com/JohanLacea/JohanLacea.github.io).
-6. Commit the changes and push them to GitHub.
-7. Visit the portfolio to check that the updated theme has published correctly
+2. Click **Code**, then **Download ZIP** to download the theme files, and extract them.
+3. Review the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/), including **Remove the Unnecessary**, to select the files and folders to transfer into the existing repository. Keep the portfolio content and images.
+4. Follow the steps in the [To install as a remote them:](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method)
+In `_config.yml`, activate the remote theme and choose the color scheme:
+
+   ```yaml
+   # theme: "minimal-mistakes-jekyll"
+   remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+   minimal_mistakes_skin: "mint"
+   ```
+
+   The remote theme setting loads the specified version from GitHub. The alternative `theme` line stays commented out, and `mint` selects the green color scheme. Keep the required `jekyll-include-cache` entry in the existing `plugins` list.
+5. Personalize the site title, masthead heading, and author information in `_config.yml`. I added my name, profile image, biography, and location.
+6. Update the settings at the top of `index.md`:
+   
+      ```yaml
+      ---
+      layout: single
+      title: false
+      author_profile: true
+      ---
+      ```
+      The settings at the top select the single layout, hide the automatic page title, and display the author sidebar. Below those settings, use Markdown headings, paragraphs, and bullet points to organize the portfolio content. I included my professional summary, professional experience, education, certifications, and a link to my LinkedIn profile.   
+7. Commit and push the changes to GitHub, then check the published portfolio's appearance, content, and links.
 
 
