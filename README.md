@@ -11,6 +11,7 @@ I also created a guide on how I created this e-portfolio.
 ## Website
 
 [View my professional portfolio](https://johanlacea.github.io/).
+
 [Portfolio Guide](https://johanlacea.github.io/building-my-eportfolio/)
 
 ## Connect
